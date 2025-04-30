@@ -26,7 +26,7 @@ AltSchool-Assignment/
 - `index.html`: The main webpage containing all required content and the fragment identifier feature.
 
 ## Links
-- **GitHub Repository**: [https://github.com/your-username/AltSchool-HTML-Assignment](https://github.com/your-username/AltSchool-HTML-Assignment)
+- **GitHub Repository**: [https://github.com/your-username/AltSchool-HTML-Assignment]([https://github.com/your-username/AltSchool-HTML-Assignment](https://github.com/chrispok18/School-of-Engineering-Assignment-1/tree/main))
 
 ## How to View the Project
 1. **Hosted Webpage**:
