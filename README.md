@@ -27,7 +27,6 @@ AltSchool-Assignment/
 
 ## Links
 - **GitHub Repository**: [https://github.com/your-username/AltSchool-HTML-Assignment](https://github.com/your-username/AltSchool-HTML-Assignment)
-- **Hosted Webpage**: [https://your-username.github.io/AltSchool-HTML-Assignment/AltSchool-Assignment/](https://your-username.github.io/AltSchool-HTML-Assignment/AltSchool-Assignment/)
 
 ## How to View the Project
 1. **Hosted Webpage**:
